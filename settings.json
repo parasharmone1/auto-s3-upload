@@ -1,0 +1,17 @@
+{
+    "environment": "production",
+    "apiBaseUrl": "https://api.vivally.com",
+	"appId": "sq0idp-mZmrO_LzC6u5flKQZAv3RQ",
+    "locationId": "L24M0241Y4HM5",
+    "addressFrom": {
+        "name": "Mr. Hippo",
+        "street1": "215 Clayton St.",
+        "city": "San Francisco",
+        "street2": "New york",
+        "phone": "9323442343",
+        "email": "abc@gamil.com",
+        "state": "CA",
+        "zip": "94117",
+        "country": "US"
+    }
+}
